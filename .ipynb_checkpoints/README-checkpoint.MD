@@ -1,15 +1,35 @@
-Matplotlib
+# Matplotlib
 
-A collection of Jupyter notebooks for practicing data visualization with Matplotlib in Python. The repo works through several small, varied datasets — gas prices, Bitcoin market prices, exam scores, and a music store database — to demonstrate common chart types and plotting techniques.
+This repository contains my practice and learning examples for **Matplotlib**, a Python library used for data visualization.
 
-Contents
-File	Description
-matplot.ipynb	Main notebook covering core Matplotlib plotting: line charts, bar charts, styling, labels, legends, and figure export.
-matplot1.ipynb	Follow-up notebook with additional plotting exercises and chart types.
-gas_prices.csv	Yearly average gas prices (USD) by country — Australia, Canada, France, Germany, Italy, Japan, Mexico, South Korea, UK, and USA — used for multi-line comparison charts.
-btc-market-price.csv	Daily Bitcoin market price data (date, price) starting February 2017, used for time-series line plots.
-exam_review.csv	Small sample dataset of student names, ages, and math/French exam scores, used for bar charts and basic data-cleaning practice.
-data.csv	Additional sample dataset used in one of the notebooks.
-chinook.db	SQLite version of the sample Chinook database (music store data — artists, albums, tracks, invoices), used to practice querying data with SQL/pandas before visualizing it.
-Gas_price_figure.png	Exported chart image generated from the gas prices notebook.
-.ipynb_checkpoints/	Auto-generated Jupyter checkpoint files.
+## 📚 Topics Covered
+
+* Line plots
+* Basic plotting
+* Plot customization
+* Labels and titles
+* Working with real-world datasets
+* Data visualization using Matplotlib
+
+## 📂 Files
+
+* `matplot.ipynb` — Matplotlib practice notebook
+* `matplot1.ipynb` — Additional Matplotlib examples
+* `gas_prices.csv` — Gas price dataset
+* `btc-market-price.csv` — Bitcoin market price dataset
+* `data.csv` — Sample dataset
+* `exam_review.csv` — Exam review dataset
+* `chinook.db` — SQLite database
+* `Gas_price_figure.png` — Example visualization
+
+## 🛠️ Libraries Used
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+
+## 🎯 Purpose
+
+The purpose of this repository is to practice **Matplotlib and data visualization** using Python and different datasets.
